@@ -25,7 +25,7 @@ Hi, I'am Igor. A Full-Stack developer at AWS. Currently interested and participa
 **Languages and Tools:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/png/circuit-board.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/png/idea.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/java.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/kotlin.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/java-script.svg"></code>
