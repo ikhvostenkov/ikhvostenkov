@@ -54,4 +54,4 @@ If you like what I do, maybe consider buying me a coffee/tea
 <a href='https://ko-fi.com/P5P03Q8JO' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ikhvostenkov&show_icons=true&theme=gotham" alt="ikhvostenkov" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ikhvostenkov&show_icons=true&theme=gotham&count_private=true" alt="ikhvostenkov" />
