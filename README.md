@@ -23,16 +23,16 @@ Hi, I'am Igor. A Full-Stack developer at AWS. Currently interested and participa
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/png/circuit-board.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/java.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/kotlin.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/java-script.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/png/golang.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/png/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/aws.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/png/daten.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ikhvostenkov/ikhvostenkov/main/assets/png/git.png"></code>
 
 
 If you like what I do, maybe consider buying me a coffee/tea
