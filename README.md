@@ -21,6 +21,17 @@ Hi, I'am Igor. A Full-Stack developer at AWS. Currently interested and participa
     - :email:  [ikhvostenkov@gmail.com](mailto:ikhvostenkov@gmail.com)
     - :earth_americas: [thecoder.pro](https://thecoder.pro)
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://thecoder.pro)
+
+---
 
 **Languages and Tools:**  
 
