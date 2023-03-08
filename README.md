@@ -19,7 +19,7 @@ Hi, I'am Igor. A Full-Stack developer at AWS. Currently interested and participa
 - 📫 How to reach me: 
     - :bird:  [@IgorKhvostenkov](https://twitter.com/IgorKhvostenkov)
     - :email:  [ikhvostenkov@gmail.com](mailto:ikhvostenkov@gmail.com)
-    - :web: [thecoder.pro](https://thecoder.pro)
+    - :earth_americas: [thecoder.pro](https://thecoder.pro)
 
 
 **Languages and Tools:**  
