@@ -26,8 +26,8 @@ Hi, I'am Igor. A Full-Stack developer at AWS. Currently interested and participa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My AWS Certification Journey](/posts/aws-associate-certification/)
-- [A Byte of Kotlin in a Land Full of Java](/posts/a-byte-of-kotlin-in-a-land-full-of-java/)
+- [My AWS Certification Journey](https://thecoder.pro/posts/aws-associate-certification/)
+- [A Byte of Kotlin in a Land Full of Java](https://thecoder.pro/posts/a-byte-of-kotlin-in-a-land-full-of-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thecoder.pro)
