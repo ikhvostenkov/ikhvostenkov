@@ -26,6 +26,7 @@ Hi, I'am Igor. A Full-Stack developer at AWS. Currently interested and participa
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Call AWS Lambda function with AWS Amplify directly](https://thecoder.pro/posts/lambda-with-amplify/)
 - [Z-Wave 101](https://thecoder.pro/posts/z-wave-101/)
 - [My AWS Certification Journey](https://thecoder.pro/posts/aws-associate-certification/)
 - [A Byte of Kotlin in a Land Full of Java](https://thecoder.pro/posts/a-byte-of-kotlin-in-a-land-full-of-java/)
